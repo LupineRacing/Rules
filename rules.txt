@@ -39,11 +39,7 @@ Section 5 - Points Classification
   5.6 - Once you cross the finish line, you may not collect more points.
   5.7 - Bonus Points: Similar to city limits (Rule 4.4), the borders of these regions will use the Google Maps defined limits.
     5.7.1 - If a bonus point area is the only part of that UN member state that you visit, you will still be granted both points: one for the country and one for the bonus.
-    5.7.2 - 2025 Marrakesh Bonus Points: Gibraltar, Ceuta, Melilla, Mallorca, Menorca, Ibiza, Catalonia, Basque Country, Western Sahara.
-          Ticketed connection/taxi exceptions:
-          Gibraltar: Photo/GPS-tracker evidence placing you south of the airport runway will be accepted.
-          Ceuta: Taxi zone is extended to Belyounech/Fnideq.
-    5.7.3 - 2025 Tallinn Bonus Points: Heligoland, Bornholm, Užupis, Ruhnu.
+    5.7.2 - 2025 Tallinn Bonus Points: Bornholm (1), Öland (1), Gotland (1), Åland Islands (1), Užupis (1), Heligoland (2), Ruhnu (2).
 
 Section 6 - The Savvy Award (Low Cost)
 
