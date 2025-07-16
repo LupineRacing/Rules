@@ -1,62 +1,64 @@
-Lupine Racing Rules 2025 for Marrakesh and Tallinn - May 6th, 2025 - v1.3.1
+Lupine Racing Rules - July 16th, 2025 - v1.3.2
+
+Note: Pay close attention to these rules. Most exist as a result of events/clarifications in previous events.
 
 Section 1 - Route and Checkpoint Rules
 
   1.1 - The start line, checkpoints, and finish line must be visited in the order provided.
-  1.2 - The race pack given at the start line will detail the specific evidence needed to validate each checkpoint.
-  1.3 - The rules below refer to your linear route to complete the challenge. If you need to deviate from the route, you may violate these rules, as long as you return to where you left off and then resume following the rules.
-          Example: You're stuck in a rural bus station/train station at night and you are unable to find safe accommodation without taking a long distance taxi to another town. This is acceptable, as long as you return to the place you left off before resuming your journey.
+  1.2 - Once you cross the finish line, your race is over, you may not go back for missed evidence or to collect more points.
+  1.3 - The race pack given at the start line will detail the specific evidence needed to validate each checkpoint.
+  1.4 - The rules below refer to your linear route to complete the challenge. If personal safety forces you off the route, record the spot (GPS screenshot) and return to that exact point before resuming.
 
-Section 2 - Teams
+Section 2 - Tickets & Proof
+  2.1 - Every long distance inter-city journey must be paid for and evidenced by a ticket, receipt, or official e-ticket screenshot bearing date, time and route.
+  2.2 - Passing through a region on a train or coach does not count as visiting that country. You must make a connection and provide ticketed proof of your visit unless an exception is detailed below.
+    2.2.1 - Vatican City: A photo placing yourself within 20m of the Obelisk in the centre of St. Peter's Square will be accepted.
 
-  2.1 - All members of a team must follow the rules as though they were a single entrant. Splitting up and sending different people to each checkpoint will not count.
+Section 3 - Teams
 
-Section 3 - Travel Between Cities
+  3.1 - All members of a team must follow the rules as though they were a single entrant. Splitting up and sending different people to each checkpoint will not count.
 
-  3.1 - This is a public transport-based event and not a car rally.
-  3.2 - Overland travel only; no planes or helicopters. Ferries are allowed.
-  3.3 - Hitchhiking is not allowed.
-  3.4 - Tickets/receipts must be kept as proof of travel to be considered for awards.
-  3.5 - If you are traveling using a public transport pass, such as the Interrail pass or similar, this is acceptable.
-  3.6 - Marshrutka minibuses will be considered public transport for the purpose of this event. If a ticket is not provided, please collect photos/video proof of the transport as evidence of the journey, ideally showing route destinations, which are usually displayed on the front of the minibus.
+Section 4 - Travel Between Cities
 
-Section 4 - Travel Within Cities
+  4.1 - This is a public transport-based event and not a car rally.
+  4.2 - Overland travel only; no planes or helicopters. Ferries are allowed.
+  4.3 - Hitchhiking is not allowed.
+  4.4 - If you are traveling using a public transport pass, such as the Interrail pass or similar, this is acceptable.
+  4.5 - Marshrutka minibuses will be considered public transport for the purpose of this event. If a ticket is not provided, please collect photos/video proof of the transport as evidence of the journey, ideally showing route destinations, which are usually displayed on the front of the minibus.
 
-  4.1 - Taxis and other forms of private hire transport are allowed, including rental bikes, e-bikes, and e-scooters.
-  4.2 - Public transport is allowed.
-  4.3 - If you wish to bring personal transport, such as a folding bike, skateboard, or rollerblades, for travel within a city, this is allowed. However, personal transport is forbidden for travel between cities.
-  4.4 - City limits will generally be defined by the outline drawn when searching the city's name in Google Maps, unless specified.
-    4.4.1 - For London, the North and South Circular will mark the boundary.
+Section 5 - Travel Within Cities
 
-Section 5 - Points Classification
+  5.1 - Taxis and other forms of private hire transport are allowed, including rental bikes, e-bikes, and e-scooters.
+  5.2 - Public transport is allowed.
+  5.3 - If you wish to bring personal transport, such as a folding bike, skateboard, or rollerblades, for travel within a city, this is allowed. Personal transport must not cross the city-limit line defined below.
+  5.4 - City limits will generally be defined by the outline drawn when searching the city's name in Google Maps, unless specified.
+    5.4.1 - For London, the North and South Circular will mark the boundary.
 
-  5.1 - A point will be awarded for each visit to a unique UN member state, plus Kosovo and Vatican City. Each event may also have bonus points, detailed below.
-  5.2 - Passing through a country on a train or coach does not count as visiting that country. You must make a connection and provide ticketed proof of your visit unless an exception is detailed below.
-    5.2.1 - Vatican City: A photo placing yourself within 20m of the Obelisk in the centre of St. Peter's Square will be accepted.
-  5.3 - In the event of a tie in terms of the number of countries visited, the fastest finish time will be used as a tiebreaker.
-  5.4 - Hopping off a train or bus at a rest stop to collect a receipt, then reboarding, does not count as a visit.
-  5.5 - You must keep the race director updated on your points score throughout the race using the specified method (a webpage). This is to facilitate the pre-invigilation of GPS tracking as well as the points leaderboard.
-  5.6 - Once you cross the finish line, you may not collect more points.
-  5.7 - Bonus Points: Similar to city limits (Rule 4.4), the borders of these regions will use the Google Maps defined limits.
-    5.7.1 - If a bonus point area is the only part of that UN member state that you visit, you will still be granted both points: one for the country and one for the bonus.
-    5.7.2 - 2025 Tallinn Bonus Points: Bornholm (1), Öland (1), Gotland (1), Åland Islands (1), Užupis (1), Heligoland (2), Ruhnu (2).
+Section 6 - Points Classification
 
-Section 6 - The Savvy Award (Low Cost)
+  6.1 - A point will be awarded for each visit to a unique UN member state, plus Kosovo, Gibraltar and Vatican City. Each event may also have bonus points, detailed below. A point is logged the moment you obtain Section 2 proof issued inside that country.
+  6.2 - In the event of a tie in terms of the number of countries visited, the fastest finish time will be used as a tiebreaker.
+  6.3 - Hopping off a train or bus at a rest stop to collect a receipt, then reboarding, does not count as a visit.
+  6.4 - You must keep the race director updated on your points score throughout the race using the specified method (a webpage) within 2 hours of earning a point. This is to facilitate the pre-invigilation of GPS tracking as well as the points leaderboard.
+  6.5 - Bonus Points: Similar to city limits (Rule 4.4), the borders of these regions will use the Google Maps defined limits.
+    6.5.1 - If a bonus point area is the only part of that UN member state that you visit, you will still be granted both points: one for the country and one for the bonus.
+    6.5.2 - 2025 Tallinn Bonus Points: Bornholm (1), Öland (1), Gotland (1), Åland Islands (1), Užupis (1), Heligoland (2), Ruhnu (2).
 
-  6.1 - Your cost is based on the sum of your long-distance, city-to-city travel costs.
-  6.2 - You must have a ticket for each journey. Not paying for transport will exclude you from the award.
-  6.3 - Accommodation costs are not factored in. For safety reasons, we do not wish to encourage rough sleeping.
-  6.4 - If you contact companies and negotiate discounts or free transport, you will be excluded from this award.
+Section 7 - The Savvy Award (Low Cost)
 
-Section 7 - Conduct
+  7.1 - Your cost is based on the sum of your long-distance, city-to-city travel costs.
+  7.2 - Accommodation costs are not factored in. For safety reasons, we do not wish to encourage rough sleeping.
+  7.3 - If you contact companies and negotiate discounts or free transport, you will be excluded from this award.
+  7.4 - Only one person can win. If there is a tie, the prize will be split.
 
-  7.1 - Knowingly providing others with inaccurate information (or taking any action that seeks to disadvantage another racer) will be penalized and may lead to disqualification.
-  7.2 - Prioritise personal safety and the safety of others.
-  7.3 - Pay the appropriate fare: racers may not travel on public transport without a valid ticket or pass.
-  7.4 - Treat fellow racers, organisers, and the public with respect and courtesy.
-  7.5 - Follow all rules and instructions issued by the event organisers, as well as local laws and regulations.
-  7.6 - If you find a grey area in the rules, refer to the Race Director for clarification who will then make a public clarifcation to promote fair competition.
+Section 8 - Conduct
 
-Section 8 - Close Finish Rules
+  8.1 - Knowingly providing others with inaccurate information (or taking any action that seeks to disadvantage another racer) will be penalized and may lead to disqualification.
+  8.2 - Prioritise personal safety and the safety of others.
+  8.3 - Treat fellow racers, organisers, and the public with respect and courtesy.
+  8.4 - Follow all rules and instructions issued by the event organisers, as well as local laws and regulations.
+  8.5 - If you find a grey area in the rules, refer to the Race Director for clarification who will then make a public clarifcation to promote fair competition.
 
-  8.1 - If it becomes apparent there is going to be a very close finish, the Race Director may distribute extra rules to handle the circumstance.
+Section 9 - Close Finish Rules
+
+  9.1 - If it becomes apparent there is going to be a very close finish, the Race Director may distribute extra rules to handle the circumstance.
