@@ -1,18 +1,19 @@
-Lupine Racing Rules - July 16th, 2025 - v1.3.2
+Lupine Racing Rules - September 10th, 2025 - v1.3.3
 
 Note: Pay close attention to these rules. Most exist as a result of situations/clarifications in previous events.
 
 Section 1 - Route and Checkpoint Rules
 
   1.1 - The start line, checkpoints, and finish line must be visited in the order provided.
-  1.2 - Once you cross the finish line, your race is over, you may not go back for missed evidence or to collect more points.
-  1.3 - The race pack given at the start line will detail the specific evidence needed to validate each checkpoint.
-  1.4 - The rules below refer to your linear route to complete the challenge. If personal safety forces you off the route, record the spot (GPS screenshot) and return to that exact point before resuming.
+  1.2 - You must be present at the start line when the race begins, and reach the finish before the cut-off.
+  1.3 - Once you cross the finish line, your race is over, you may not go back for missed evidence or to collect more points.
+  1.4 - The race pack given at the start line will detail the specific evidence needed to validate each checkpoint.
+  1.5 - The rules below refer to your linear route to complete the challenge. If personal safety forces you off the route, record the spot (GPS screenshot) and return to that exact point before resuming.
 
 Section 2 - Tickets & Proof
   2.1 - Every long-distance inter-city journey must be paid for and evidenced by a ticket, receipt, or official e-ticket screenshot bearing date, time and route.
     2.1.1 - Fare-free systems: Where a network issues no tickets (e.g., Luxembourg), provide a geo-tagged photo on board showing the destination display.
-  2.2 - Region-proof for points rule: A visit only counts if you step off the vehicle and capture one geo-tagged photo of yourself at a clearly recognisable spot outside transport infrastructure, for example a street sign, shop front, town square, or border marker.
+  2.2 - (Note: This rule is under review for the 2026 season). Region-proof for points rule: A visit only counts if you step off the vehicle and capture one geo-tagged photo of yourself at a clearly recognisable spot outside transport infrastructure, for example a street sign, shop front, town square, or border marker.
 
 Section 3 - Teams
 
@@ -37,14 +38,18 @@ Section 5 - Travel Within Cities/Towns
     5.4.1 - London: the North and South Circular will mark the boundary.
     5.4.2 - Brussels: entire Brussels-Capital Region (19 municipalities, incl. Midi/Zuid)
 
-Section 6 - Points Classification
+Section 6 - Country Counting Classification
 
   6.1 - A point will be awarded for each visit to a unique UN member state, plus Kosovo, Gibraltar and Vatican City. Each event may also have bonus points, detailed below. A point is logged the moment you obtain Section 2 proof issued inside that country.
   6.2 - In the event of a tie in terms of the number of countries visited, the fastest finish time will be used as a tiebreaker.
   6.3 - You must keep the race director updated on your points score throughout the race using the specified method (a webpage) within 2 hours of earning a point. This is to facilitate the pre-invigilation of GPS tracking as well as the points leaderboard.
   6.4 - Bonus Points: Similar to city limits (Rule 4.4), the borders of these regions will use the Google Maps defined limits.
     6.4.1 - If a bonus point area is the only part of that UN member state that you visit, you will still be granted both points: one for the country and one for the bonus.
-    6.4.2 - 2025 Tallinn Bonus Points: Bornholm (1), Öland (1), Gotland (1), Åland Islands (1), Užupis (1), Heligoland (2), Ruhnu (2).
+    6.4.2 - 2026 Slovenia Bonus Points (initial draft, may be revised): 
+              1 point - Bornholm, Öland, Gotland, Listenbourg, Corsica, Sardinia, Sicily
+              2 points - Heligoland, Jersey, Guernsey
+              3 points - Wales, Lampedusa
+              4 points - Arctic Circle
 
 Section 7 - The Savvy Award (Low Cost)
 
@@ -52,14 +57,14 @@ Section 7 - The Savvy Award (Low Cost)
   7.2 - Accommodation costs are not factored in. For safety reasons, we do not wish to encourage rough sleeping.
   7.3 - If you contact companies and negotiate discounts or free transport, you will be excluded from this award.
   7.4 - Only one person can win. If there is a tie, the prize will be split.
-  7.5 - For multi-day passes like Interrail, divide the total cost by the number of valid travel days. Only days used during the event count toward your spend. Include any seat reservation fees separately.
-E.g. a £200 pass valid for 4 days = £50 per day. Using 2 days = £100 total.
+  7.5 - For multi-day passes like Interrail, the total cost of the pass will be factored into your submission.
 
 Section 8 - Conduct
 
   8.1 - Fair play - No deception, sabotage or rule-bending. Obey event rules and all local laws.
   8.2 - Safety & respect - Put personal and public safety first. Treat racers, organisers and bystanders with courtesy. Follow organiser instructions.
   8.3 - Clarifications - If a rule seems grey, ask the Race Director immediately, their public ruling is final.
+  8.4 - Physical trophies must be collected at the awards by prize winners or by their nominee, or they will be forfeited.
 
 Section 9 - Close Finish Rules
 
