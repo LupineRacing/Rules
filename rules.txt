@@ -34,9 +34,7 @@ Section 5 - Travel Within Cities/Towns
   5.1 - Taxis and other forms of private hire transport are allowed, including rental bikes, e-bikes, and e-scooters.
   5.2 - Public transport is allowed.
   5.3 - If you wish to bring personal transport, such as a folding bike, skateboard, or rollerblades, for travel within a city, this is allowed. Personal transport must not cross the city-limit line defined below.
-  5.4 - City/Town limits will generally be defined by the outline drawn when searching the city's name in Google Maps, unless specified.
-    5.4.1 - London: the North and South Circular will mark the boundary.
-    5.4.2 - Brussels: entire Brussels-Capital Region (19 municipalities, incl. Midi/Zuid)
+  5.4 - City or town limits will generally be defined by the outline drawn in the Lupine Racing Private Transport Zones map.
 
 Section 6 - Country Counting Classification
 
