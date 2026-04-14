@@ -43,11 +43,15 @@ Section 6 - Country Counting Classification
   6.3 - You must keep the race director updated on your points score throughout the race using the specified method (a webpage) within 2 hours of earning a point. This is to facilitate the pre-invigilation of GPS tracking as well as the points leaderboard.
   6.4 - Bonus Points: Similar to city limits (Rule 4.4), the borders of these regions will use the Google Maps defined limits.
     6.4.1 - If a bonus point area is the only part of that UN member state that you visit, you will still be granted both points: one for the country and one for the bonus.
-    6.4.2 - 2026 Slovenia Bonus Points (initial draft, may be revised): 
+    6.4.2 - 2026 Slovenia Bonus Points: 
               1 point - Bornholm, Öland, Gotland, Listenbourg, Corsica, Sardinia, Sicily
               2 points - Heligoland, Jersey, Guernsey
               3 points - Wales, Lampedusa
               4 points - Arctic Circle
+    6.4.3 - 2026 Istanbul Bonus Points: 
+              1 point - Bornholm, Öland, Gotland, Corsica, Sardinia, Sicily, Republika Srpska, Corfu
+              2 points - Heligoland, Jersey, Guernsey, Gagauzia, Scotland
+              3 points - Wales
   6.5 – Mandatory Pit Stop (Country Counting Award Only): For those aiming for a Country Counting Award Prize eligable ranking, participants are required to make one pit stop during events that are longer than three days. A pit stop is logged by taking two GPS tagged and timestamped photographs of the participant in the same location, no less than 12 hours apart. No travel may be logged during that 12 hour window, creating a mandatory rest period. Failure to complete a valid pit stop will make the participant ineligible for the Country Counting Award. The pit-stop can be initiated at anytime, but not within the first 24 hours of the event.
 
 Section 7 - The Savvy Award (Low Cost)
