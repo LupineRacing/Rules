@@ -11,15 +11,17 @@ Section 1 - Route and Checkpoint Rules
   1.5 - The rules below refer to your linear route to complete the challenge. If personal safety forces you off the route, record the spot (GPS screenshot) and return to that exact point before resuming.
 
 Section 2 - Tickets & Proof
-  2.1 - Every long-distance inter-city journey must be paid for and evidenced by a ticket, receipt, or official e-ticket screenshot bearing date, time and route.
+  2.1 - Every long distance inter city journey must be a valid journey, including legitimately free transport, and must be supported by a valid ticket or travel entitlement that complies with the operator’s conditions of carriage. This must be evidenced by a ticket, receipt, or official e ticket screenshot clearly showing the date, time, and route.
     2.1.1 - Fare-free systems: Where a network issues no tickets (e.g., Luxembourg), provide a geo-tagged photo on board showing the destination display.
   2.2  - Region-proof for points rule: For a visit to qualify for points, participants must submit a geo tagged photograph captured using the official event application or another approved secure method. The embedded GPS metadata of the image must demonstrably place the location of capture within the relevant country or regional boundaries as defined by Google Maps. Submissions that do not satisfy this requirement may be deemed invalid at the discretion of the organisers.
+    2.2.1 - A country or territory will only be considered visited if the GPS location is recorded on land within its borders. Sections of bridges, docks, or similar structures that are suspended over water will not count. Entry into territorial waters alone does not constitute a valid visit.
 
 Section 3 - Teams
 
   3.1 - Each team member pays an individual entry fee and must follow all rules as a single entrant.
   3.2 - Splitting up and sending different people to each checkpoint will not count.
-  3.3 - Each team member is issued their own ranking in the results as single entrants based on their own finish time.
+  3.3 - Each team member is issued their own ranking in the results as single entrants based on their own finish time/points.
+  3.4 - For teams that stick together, we will accept tracking evidence from one device to cover the whole group.
 
 Section 4 - Travel Between Cities
 
