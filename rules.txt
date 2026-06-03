@@ -1,4 +1,4 @@
-Lupine Racing Rules - April 9th, 2026 - v1.4.1
+Lupine Racing Rules - April 9th, 2026 - v1.4.2
 
 Note: Pay close attention to these rules. Most exist as a result of situations/clarifications in previous events.
 
@@ -49,7 +49,7 @@ Section 6 - Country Counting Classification
               1 point - Bornholm, Öland, Gotland, Listenbourg, Corsica, Sardinia, Sicily
               2 points - Heligoland, Jersey, Guernsey
               3 points - Wales, Lampedusa
-              4 points - Arctic Circle
+              4 points - Arctic Circle (66° 34' N and above)
     6.4.3 - 2026 Istanbul Bonus Points: 
               1 point - Bornholm, Öland, Gotland, Corsica, Sardinia, Sicily, Republika Srpska, Corfu, Wales
               2 points - Heligoland, Jersey, Guernsey, Gagauzia, Scotland
