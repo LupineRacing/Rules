@@ -1,4 +1,23 @@
-Lupine Racing Rules - April 9th, 2026 - v1.4.2
+Lupine Racing Rules - July 14th, 2026 - v1.5.0
+______________________________________
+Quick Start Guide
+
+Welcome to Lupine Racing! At its heart, this is a long-distance public transport puzzle. Your goal is to solve the route, visit the checkpoints and reach the finish before everyone else.
+
+The basics are simple: 
+- Between cities, and outside our Private Transport Zones, travel by public transport. Think trains, coaches, buses, ferries, metros, trams and any other service a reasonable person would consider public transport.
+- Inside our Private Transport Zones, taxis and other private transport (defined later) are allowed. This keeps the event accessible and avoids racers getting stranded in unfamiliar places in the middle of the night waiting for infrequent public transport.
+- Visit every checkpoint in the specified order.
+- Collect the evidence requested in your race pack.
+- Be respectful, stay safe and don't look for loopholes.
+
+That's really it.
+
+If you're aiming for a podium finish, or just want to understand the finer details, the remainder of this document explains how the event is run and how results are invigilated.
+
+These rules cannot anticipate every transport system or situation you may encounter. Where a rule is unclear or silent, Race Control will interpret it according to its intent, applying the principles of fairness, participant safety and competitive integrity. Race Control's decisions are final.
+______________________________________
+The Full Rules
 
 Note: Pay close attention to these rules. Most exist as a result of situations/clarifications in previous events.
 
@@ -11,8 +30,10 @@ Section 1 - Route and Checkpoint Rules
   1.5 - The rules below refer to your linear route to complete the challenge. If personal safety forces you off the route, record the spot (GPS screenshot) and return to that exact point before resuming.
 
 Section 2 - Tickets & Proof
-  2.1 - Every long distance inter city journey must be a valid journey, including legitimately free transport, and must be supported by a valid ticket or travel entitlement that complies with the operator’s conditions of carriage. This must be evidenced by a ticket, receipt, or official e ticket screenshot clearly showing the date, time, and route.
-    2.1.1 - Fare-free systems: Where a network issues no tickets (e.g., Luxembourg), provide a geo-tagged photo on board showing the destination display.
+  2.1 - Transport evidence - If your result is selected for invigilation (for example after achieving a top placing with prize), Race Control will assess your journeys against the following two evidence principles.
+    2.1.1 - Principle One - Can we reasonably determine which service you travelled on? Race Control must be reasonably satisfied which transport service you used. Evidence may include, but is not limited to, GPS tracking consistent with the route taken, a ticket or reservation, a photograph or video showing the vehicle or service, journey history from an operator's app, timetables that align with your GPS tracking, or any other reasonable evidence demonstrating the service used so we can confirm it is public transport.
+    2.1.2 - Principle Two - Can we reasonably determine that your travel complied with the operator's conditions of carriage? Race Control must be reasonably satisfied that a reasonable person would conclude your journey was made honestly and in accordance with the operator's rules. Evidence may include, but is not limited to, a valid ticket, bank payment history, an Interrail, Eurail or similar travel pass, official receipts, operator account history, or any other evidence demonstrating a legitimate entitlement to travel.
+    2.1.3 - Participants should retain sufficient evidence to support their journeys until Race Control confirms that invigilation has been completed.
   2.2  - Region-proof for points rule: For a visit to qualify for points, participants must submit a geo tagged photograph captured using the official event application or another approved secure method. The embedded GPS metadata of the image must demonstrably place the location of capture within the relevant country or regional boundaries as defined by Google Maps. Submissions that do not satisfy this requirement may be deemed invalid at the discretion of the organisers.
     2.2.1 - A country or territory will only be considered visited if the GPS location is recorded on land within its borders. Sections of bridges, docks, or similar structures that are suspended over water will not count. Entry into territorial waters alone does not constitute a valid visit.
 
@@ -75,6 +96,15 @@ Section 8 - Conduct
 Section 9 - Close Finish Rules
 
   9.1 - If it becomes apparent there is going to be a very close finish, the Race Director may distribute extra rules to handle the circumstance.
+
+Section 10 - Penalties
+
+  10.1 - Philosophy - The aim of Lupine Racing is not to disqualify participants. Our events are built around adventure, community and fair competition. Where possible, Race Control will seek to apply proportionate penalties that preserve a participant's race while maintaining fairness for everyone.
+  10.2 - Types of penalties - Depending on the circumstances, Race Control may apply time penalties, points deductions, country count deductions, bonus point removal, checkpoint invalidation, disqualification from individual prize categories, or full disqualification from the event. Poor conduct will take a yellow card, red card approach similar to Football/Soccer.
+  10.3 - Competitive advantage - Where a rule breach results in a competitive advantage, Race Control may apply a time penalty of no less than the advantage reasonably believed to have been gained, together with any additional penalty considered appropriate.
+  10.4 - Partial journey invalidation - Where a rule breach affects only part of a participant's journey, Race Control may invalidate only that portion of the race and adjust the participant's score accordingly. For example, in Country Counting events, countries or bonus regions visited during an invalid portion of the journey may be removed from the final classification while preserving the remainder of the race wherever reasonably possible.
+  10.5 - Fruit of the Poisonous Tree - In some circumstances, a rule breach fundamentally affects the validity of everything that follows. This may occur where a participant fails to legitimately complete a mandatory checkpoint before continuing, obtains a competitive advantage that cannot reasonably be separated from the remainder of the journey, or creates evidence failures that make subsequent sections of the route impossible to validate. In these situations, the remainder of the journey may be considered invalid, resulting in disqualification from the affected classification or, where appropriate, the event itself.
+  10.6 - Cooperation during invigilation - Participants must cooperate with reasonable requests from Race Control during invigilation. Failure to provide requested evidence within a reasonable timeframe, without good reason, may result in penalties up to and including disqualification from the affected classification.
 
 Appendix - Definition of Terms
 
