@@ -1,4 +1,4 @@
-Lupine Racing Rules - July 14th, 2026 - v1.5.0
+Lupine Racing Rules - July 14th, 2026 - v1.6.0
 ______________________________________
 Quick Start Guide
 
@@ -27,7 +27,7 @@ Section 1 - Route and Checkpoint Rules
   1.2 - You must be present at the start line when the race begins, and reach the finish before the cut-off.
   1.3 - Once you cross the finish line, your race is over, you may not go back for missed evidence or to collect more points.
   1.4 - The race pack given at the start line will detail the specific evidence needed to validate each checkpoint.
-  1.5 - The rules below refer to your linear route to complete the challenge. If personal safety forces you off the route, record the spot (GPS screenshot) and return to that exact point before resuming.
+  1.5 - The rules below refer to your linear route to complete the challenge. You may step outside these rules and deviate from the route if you wish, for example to take a sightseeing side trip, get a taxi to a hotel outside a Private Transport Zone, go home, or for personal safety, but you must return to the exact point where you left off before resuming, so that your logged journey remains a complete, linear route within the rules of the challenge.
 
 Section 2 - Tickets & Proof
   2.1 - Transport evidence - If your result is selected for invigilation (for example after achieving a top placing with prize), Race Control will assess your journeys against the following two evidence principles.
@@ -36,6 +36,7 @@ Section 2 - Tickets & Proof
     2.1.3 - Participants should retain sufficient evidence to support their journeys until Race Control confirms that invigilation has been completed.
   2.2  - Region-proof for points rule: For a visit to qualify for points, participants must submit a geo tagged photograph captured using the official event application or another approved secure method. The embedded GPS metadata of the image must demonstrably place the location of capture within the relevant country or regional boundaries as defined by Google Maps. Submissions that do not satisfy this requirement may be deemed invalid at the discretion of the organisers.
     2.2.1 - A country or territory will only be considered visited if the GPS location is recorded on land within its borders. Sections of bridges, docks, or similar structures that are suspended over water will not count. Entry into territorial waters alone does not constitute a valid visit.
+  2.3 - Participants aiming for a prize-winning placing must clearly include themselves in every checkpoint, task, and bonus task photograph submitted as evidence.
 
 Section 3 - Teams
 
@@ -54,9 +55,9 @@ Section 4 - Travel Between Cities
 
 Section 5 - Travel Within Cities/Towns
 
-  5.1 - Taxis and other forms of private hire transport are allowed, including rental bikes, e-bikes, and e-scooters.
+  5.1 - Taxis and other forms of private hire transport are allowed. Personal and rental bikes, e-bikes, e-scooters and other similar micromobility devices are not permitted, even within a Private Transport Zone.
   5.2 - Public transport is allowed.
-  5.3 - If you wish to bring personal transport, such as a folding bike, skateboard, or rollerblades, for travel within a city, this is allowed. Personal transport must not cross the city-limit line defined below.
+  5.3 - Personal transport, such as a skateboard or rollerblades, is not permitted for travel within a city or town.
   5.4 - City or town limits will generally be defined by the outline drawn in the Lupine Racing Private Transport Zones map.
 
 Section 6 - Country Counting Classification
@@ -78,11 +79,12 @@ Section 6 - Country Counting Classification
 
 Section 7 - The Savvy Award (Low Cost)
 
-  7.1 - Your cost is based on the sum of your long-distance, city-to-city travel costs.
-  7.2 - Accommodation costs are not factored in. For safety reasons, we do not wish to encourage rough sleeping.
-  7.3 - If you contact companies and negotiate discounts or free transport, you will be excluded from this award.
-  7.4 - Only one person can win. If there is a tie, the prize will be split.
-  7.5 - For multi-day passes like Interrail, the total cost of the pass will be factored into your submission.
+  7.1 - Your cost is based on the sum of the full, standard single-adult fare for each of your long-distance, city-to-city journeys.
+  7.2 - You must log and submit a claim for each journey based on the price a person not eligible for any discounts would have had to pay, even if you travelled on a cheaper ticket, such as a student, youth, age-related, senior, group, nationality, or place-of-residence discount. You are free to purchase and travel on the discounted ticket; only the cost claimed for this award must reflect the non-discounted price. This is to keep the award a level playing field regardless of any discounts a participant may be eligible for.
+  7.3 - Accommodation costs are not factored in. For safety reasons, we do not wish to encourage rough sleeping.
+  7.4 - If you contact companies and negotiate discounts or free transport, you will be excluded from this award.
+  7.5 - Only one person can win. If there is a tie, the prize will be split.
+  7.6 - For multi-day passes like Interrail, the total cost of the pass will be factored into your submission.
 
 Section 8 - Conduct
 
